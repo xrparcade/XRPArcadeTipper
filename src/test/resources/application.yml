@@ -1,0 +1,6 @@
+spring:
+   application:
+      name: XRPArcade Tipper
+   profiles:
+      active:
+      - dev
